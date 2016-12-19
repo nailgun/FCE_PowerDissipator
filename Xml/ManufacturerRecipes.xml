@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfCraftData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<CraftData>
+		<Key>nailgunster2.PowerDissipator</Key>
+		<Category>power</Category>
+		<Tier>2</Tier>
+		<CraftedKey>nailgunster2.PowerDissipator</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+		</Costs>
+		<Description></Description>
+		<Hint></Hint>
+		<ResearchRequirements>
+		</ResearchRequirements>
+	</CraftData>
+</ArrayOfCraftData>

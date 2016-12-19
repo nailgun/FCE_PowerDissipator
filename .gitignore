@@ -1,0 +1,5 @@
+*.csproj.user
+
+/.vs
+/FCE_PowerDissipator/bin/
+/FCE_PowerDissipator/obj/

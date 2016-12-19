@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfTerrainDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<TerrainDataEntry>
+		<Key>nailgunster2.PowerDissipator</Key>
+		<Name>Power Dissipator</Name>
+		<Description>Dissipates energy to the void at max available PPS. Shows PPS</Description>
+		<LayerType>PrimaryTerrain</LayerType>
+		<TopTexture>187</TopTexture>
+		<SideTexture>187</SideTexture>
+		<BottomTexture>187</BottomTexture>
+		<GUITexture>187</GUITexture>
+		<isSolid>false</isSolid>
+		<isTransparent>true</isTransparent>
+		<isHollow>false</isHollow>
+		<isGlass>false</isGlass>
+		<isPassable>false</isPassable>
+		<hasObject>true</hasObject>
+		<hasEntity>true</hasEntity>
+		<Category>Machine</Category>
+		<AudioWalkType>Metal</AudioWalkType>
+		<AudioBuildType>Dirt</AudioBuildType>
+		<AudioDestroyType>None</AudioDestroyType>
+		<tags>
+			<tag>Machinery</tag>
+		</tags>
+	</TerrainDataEntry>
+</ArrayOfTerrainDataEntry>
